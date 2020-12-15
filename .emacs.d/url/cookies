@@ -1,0 +1,14 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '((".zenhabits.net"
+  [url-cookie "__cfduid" "db5a872e4584e156333d642502e83ad971607986650" "Wed, 13-Jan-21 22:57:30 GMT" "/" ".zenhabits.net" nil]))
+)
+(setq url-cookie-secure-storage
+ 'nil)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:
