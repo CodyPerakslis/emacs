@@ -1,3 +1,0 @@
-* TODO Create workflow
-* DONE Find space for directory
-  CLOSED: [2020-12-14 Mon 21:04]

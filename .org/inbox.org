@@ -1,4 +1,10 @@
 * Tasks
-** TODO Thing
-** TODO Another thign 
-** TODO thing here
+** TODO Task Stages (In Progress, Waiting, etc.)
+** TODO Hide completed tasks
+** TODO story abt a world where you die if you are ever alone. society revolves around it
+** TODO video game Life is Strange
+** TODO Loan Payments (/e-loan)
+** TODO Hulu Privacy Payment
+** TODO Cleanout car
+** TODO Audit Trading APIs (Robinhood, etc.)
+** TODO Freelance Companies Audit

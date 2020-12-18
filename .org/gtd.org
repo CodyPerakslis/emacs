@@ -1,0 +1,58 @@
+* Organization
+** DONE Wrap Presents
+   CLOSED: [2020-12-16 Wed 23:16]
+** DONE Laundry
+   CLOSED: [2020-12-16 Wed 21:35]
+** DONE Clean Room
+   CLOSED: [2020-12-17 Thu 12:55]
+** DONE Take out Trash
+   CLOSED: [2020-12-17 Thu 00:24]
+** TODO Pack Car
+* Freelance Work
+** TODO Edit Resume
+** TODO Create Freelance list
+* Writing Following
+** DONE Create my personal brand
+   CLOSED: [2020-12-15 Tue 22:08]
+** TODO Edit social profiles
+*** TODO Instagram
+*** TODO Twitter
+*** TODO Facebook
+*** TODO LinkedIn
+*** TODO Website
+*** TODO YouTube
+*** TODO TikTok
+*** TODO Tumblr
+*** TODO Pinterest
+** TODO Projects for publication submissions
+** TODO Pool of pictures (add to profiles)
+* Personal Emacs Setup
+** TODO Manage setup sharing
+*** TODO Hide passwords
+** TODO Manage nested todos
+** TODO Rank todos 
+** TODO Pomodoro clock setup 
+** TODO Recurring tasks 
+** TODO Scheduled tasks (agenda items?)
+** TODO *Org Agenda* display category (e.g. "Personal Emacs Setup")
+** TODO Text overflow (specifically in org mode)
+* Solo Tasks
+** DONE Consolidate org files
+   CLOSED: [2020-12-15 Tue 16:44]
+** TODO Create basic projects
+** TODO Move over post-it notes
+* General Categories
+
+** Writing
+This is for writing, whether it be a story or an essay. 
+
+** Job Application
+For a system for applying to jobs. 
+
+** Freelance Work 
+For finding and implementing freelance work. 
+
+** Personal Projects
+For creating and maintaining personal projects
+
+
