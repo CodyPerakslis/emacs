@@ -1,0 +1,22 @@
+* TODO Project [28%]                                                :ORDERED:
+  :PROPERTIES:
+  :ORDERED:  t
+  :END:
+** TODO P1 [33%]                                                    :ORDERED:
+   :PROPERTIES:
+   :ORDERED:  t
+   :END:
+*** DONE A
+    CLOSED: [2020-12-26 Sat 15:03]
+    - State "DONE"       from "TODO"       [2020-12-26 Sat 15:03]
+    - State "TODO"       from "DONE"       [2020-12-26 Sat 15:02]
+    - State "DONE"       from "TODO"       [2020-12-26 Sat 15:01]
+*** TODO B
+*** TODO C
+** TODO P2 [50%]
+*** TODO A
+*** DONE B
+    CLOSED: [2020-12-26 Sat 15:03]
+    - State "DONE"       from "TODO"       [2020-12-26 Sat 15:03]
+* Inbox
+** TODO test it out

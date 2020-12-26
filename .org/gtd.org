@@ -1,3 +1,33 @@
+* Focus
+
+Basic plan is to split the day in the following timed categories:
+** Bread [Mon-Thu]
+~8h Work (finding or doing)
+~3h Project
+~1h Finance
+=~12h
+** Build [Fri-Sat]
+~4h Work
+~6h Project
+~1h Finance
+=~11h
+** Bastard [Sun]
+~2h Work
+~2h Project
+~4h Finance
+=~8h
+** Total
+~(8*4+4*2+2)=42h Work
+~(3*4+6*2+2)=26h Project
+~(1*4+1*2+4)=10h Finance
+=~78h
+
+Today I complete resources tutorial and add basic history.
+Today I start the phoenix guide.
+Today I will set up quotable deployment.
+Today I learn the pheonix directory structure.
+Today I draw out the look of quotables.
+
 * Organization
 ** DONE Wrap Presents
    CLOSED: [2020-12-16 Wed 23:16]
@@ -7,7 +37,8 @@
    CLOSED: [2020-12-17 Thu 12:55]
 ** DONE Take out Trash
    CLOSED: [2020-12-17 Thu 00:24]
-** TODO Pack Car
+** DONE Pack Car
+   CLOSED: [2020-12-19 Sat 12:57]
 * Freelance Work
 ** TODO Edit Resume
 ** TODO Create Freelance list
@@ -54,5 +85,55 @@ For finding and implementing freelance work.
 
 ** Personal Projects
 For creating and maintaining personal projects
+
+
+* Ideas
+Each thing done in agile manner. The Three Day MVP.
+** Quote Sender
+Gamified? Pick where it is from. Matching, scoring. 
+Add an emacs shortcut to automatically add.
+** Todo System Emacs
+https://blog.aaronbieber.com/2016/09/24/an-agenda-for-life-with-org-mode.html
+First containerizing emacs, then implement a todo similar to this.
+https://imti.co/dont-install-emacs/
+Also, set up agenda to remove the need for this on the screen.
+** Personal Blog w/ cross posting on Medium, twitter, etc.
+** Whole Mac as a container
+Vagrant and podman setup attempt.
+** Emacs Configuration
+https://www.manueluberti.eu/emacs/2017/10/19/docker/
+** PUA Videogame / Tracker
+** Gift Finder (by personality)
+** Stock Trading Program
+** E-bay reselling program
+** Universal player / tracker
+** Armada
+** Video call happy hour
+** Daily Journal that tracks how you're doing
+** Automated Job Applier
+** Freelance work automation
+** Turk / Response money making automation
+** Robo-author (/assistance)
+** Mastery ranking (of languages)
+** CRM system for me
+** Personal Assistant 
+*** 
+** Kali Linux with Damn Vulnerable Linux
+* Fundamentals
+** What's in a day?
+In a day, there is focus. I decide what I want to get out of the day.
+This involves writing out my goal and viewing the entire day through that lens.
+Now, daily focus is singular, but weekly and beyond is necessarily fragmented.
+To do this well, I need to have everything else understood in context of how it impacts the future.
+
+So, every day I decide what is the one thing I want to achieve that day.
+How I achieve it can just be a rough guide, when I achieve it is fluid, but I need a target.
+A few days of this and I can clarify a weekly target as well. So on for monthly and yearly.
+With a target in mind, everything else is non-existant. I can give myself 1-4 hours to "get my affairs in order" for the day,
+but the rest is devoted to the one task.
+
+Start small and build. For now, all I will have is the following two components.
+  (1) Every day I start with 1 hour of affairs. 
+  (2) Every day I pick a single focus for that day that all other effort revolves around.
 
 

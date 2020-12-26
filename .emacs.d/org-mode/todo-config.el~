@@ -1,0 +1,35 @@
+;; -*- mode: emacs-lisp -*-
+
+;;;; Org Mode Config
+;; Enable Org Mode
+(require 'org)
+(setq org-log-done t)
+
+;; (setq org-todo-keywords '((type "TODO" "IN-PROGRESS" "WAITING" "|" "DONE")))
+(setq org-todo-keywords
+      '((sequence "TODO(t)" "NEXT(n)" "PROG(p)" "INTR(i)" "|" "DONE(d@/!)" "REMV(r@/!)")))
+(customize-set-variable 'org-lowest-priority ?E)
+(customize-set-variable 'org-default-priority ?C)
+(setq org-hierarchical-todo-statistics nil)
+
+(setq org-agenda-dim-blocked-tasks 'invisible)
+(setq org-enforce-todo-dependencies t)
+(setq org-enforce-todo-checkbox-dependencies t)
+(setq org-track-ordered-property-with-tag t)
+
+(define-key org-mode-map (kbd "\C-cp") 'org-priority-up)
+
+(setq org-agenda-files (list "~/.org/tasks.org"))
+			    
+(setq org-capture-templates '(("t" "Todo [inbox]" entry
+			       (file+headline "~/.org/inbox.org" "Tasks")
+			       "* TODO %i%?")))
+
+;; Custom agenda view
+(setq org-agenda-custom-commands
+      '(("c" "Simple agenda view"
+	 ((agenda "")
+	  (alltodo "")))))
+
+;; Timer
+(defalias 'timer 'org-timer-start)

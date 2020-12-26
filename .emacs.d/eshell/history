@@ -1,0 +1,124 @@
+ls
+clear
+ls
+ls
+cd ..
+ls
+cd ..
+ls
+ls
+clear
+ls 
+ls
+clear
+ldfksfj;s
+pwd
+ls
+ls -a
+zsh
+env
+ln -s ~/Code/emacs/.eshell ~/.eshell
+exit
+env | grep path
+env | grep PATH
+cd ~
+cat .eshell
+ls
+rm .eshell
+cd Code/emacs
+ls
+ls -
+ls -a
+rm .eshell*
+ls
+ls -a
+mkdir .eshell
+cd .eshell
+ls
+touch profile
+cd ..
+ln -s .eshell/ ~/.eshell
+exit
+pwd
+env | grep PATH
+cd vh
+cd ~
+ls
+ls -a
+cd .eshell
+cat .eshell
+ls -l .eshell
+ls -a
+rm .eshell
+ls -a
+ln -s Code/emacs/.eshell/ .eshell/
+cd Code/emacs/
+ls
+ls -a
+cd .eshell/
+ls
+cd ..
+cd ..
+ls
+cd ..
+ln -s ~/Code/emacs/.eshell ~/.eshell
+cd .eshell/
+ls
+cd ..
+exit
+ls
+cd ..
+ls
+cd ..
+cd ..
+ls
+cd .eshell/
+cd ..
+env | grep PATH
+cd .eshell/
+l;s
+ls
+cat profile
+ls
+cd ~/Code/emacs
+ls -a
+rm -rf .eshell
+cd ~
+rm .eshell
+ls
+ls -a
+alias vg=/usr/local/bin/vagrant
+vg init hasicorp/bionic64
+vg 
+alias list
+alias
+alias -l
+list alias
+alias
+alias vg /usr/local/bin/vagrant
+vg init hashicorp/bionic64
+ls
+ls -a
+vg init hashicorp/bionic64
+vg -v
+/usr/local/bin/vagrant -v
+alias
+alias vg
+alias
+vg=/usr/local/bin/vagrant
+echo $vg
+(setq vg /usr/local/bin/vagrant)
+(setq vg "/usr/local/bin/vagrant")
+echo "vg"
+echo "$vg"
+$vg -v
+$vg init hashicorp/bionic64
+ls
+vagrant up
+$vg up
+$vg up --provider=VirtualBox
+$vg up --provider=virtualbox
+PATH=$PATH:/usr/local/bin/
+(setq PATH "$PATH:/usr/local/bin/")
+echo "$PATH"
+exit

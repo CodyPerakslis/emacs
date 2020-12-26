@@ -1,0 +1,5 @@
+;; -*- mode: emacs-lisp -*-
+
+;; function keys
+(global-set-key [f1] 'eshell)
+

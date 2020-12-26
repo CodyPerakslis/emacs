@@ -4,7 +4,7 @@
 ;;; -*- End Of Bookmark File Format Version Stamp -*-
 (("org-capture-last-stored"
  (filename . "~/Code/emacs/.org/inbox.org")
- (front-context-string . "** TODO story ab")
- (rear-context-string . "completed tasks\n")
- (position . 87))
+ (front-context-string . "** TODO Cleanout")
+ (rear-context-string . "Privacy Payment\n")
+ (position . 273))
 )

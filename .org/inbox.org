@@ -8,3 +8,11 @@
 ** TODO Cleanout car
 ** TODO Audit Trading APIs (Robinhood, etc.)
 ** TODO Freelance Companies Audit
+* Inbox
+** TODO test
+ 
+  [[file:~/.emacs.d/globalkeymap-config.el::;; -*- mode: emacs-lisp -*-]]
+** TODO test 2
+  [[file:~/.emacs.d/org-mode/todo-config.el::"* TODO %?\n %a")))]]
+** TODO things
+  org
